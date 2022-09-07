@@ -1,2 +1,2 @@
-# elven-works-sre-challenge-wordpress-iac
+# Elven Works SRE Challenge - Wordpress IaC
 Challenge from Elven Works SRE Formation
