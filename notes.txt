@@ -1,0 +1,8 @@
+arfurlaneto
+dpV#@L!@gO1BMpz3vkTRO
+
+http://54.152.243.50/
+
+
+update wp_options set option_value = 'http://54.152.243.50' where option_name = 'home';                                                                            
+update wp_options set option_value = 'http://54.152.243.50' where option_name = 'siteurl';                                                                   

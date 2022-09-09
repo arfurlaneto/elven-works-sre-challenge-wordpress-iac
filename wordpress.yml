@@ -1,0 +1,8 @@
+---
+  - name: wordpress
+    hosts: all
+    become: yes
+    remote_user: ubuntu
+
+    roles:
+      - wordpress
